@@ -75,7 +75,7 @@ zstyle ':fzf-tab:complete:cd:*' fzf-preview 'ls --color $realpath'
 zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
 
 # Aliases
-alias ls='gols -ic'
+# alias ls='gols -ic'
 alias vim='nvim'
 alias c='clear'
 
